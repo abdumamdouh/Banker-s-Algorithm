@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/eabdo/Desktop/New folder (2)/Banker-s-Algorithm-/main.cpp" "C:/Users/eabdo/Desktop/New folder (2)/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/Banker_s_Algorithm_.dir/main.cpp.obj"
+  "C:/Users/eabdo/Desktop/Banker-s-Algorithm-/main.cpp" "C:/Users/eabdo/Desktop/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/Banker_s_Algorithm_.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

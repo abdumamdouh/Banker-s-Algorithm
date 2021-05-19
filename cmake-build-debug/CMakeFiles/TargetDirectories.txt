@@ -1,3 +1,3 @@
-C:/Users/eabdo/Desktop/New folder (2)/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/eabdo/Desktop/New folder (2)/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/Banker_s_Algorithm_.dir
-C:/Users/eabdo/Desktop/New folder (2)/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eabdo/Desktop/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/eabdo/Desktop/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/Banker_s_Algorithm_.dir
+C:/Users/eabdo/Desktop/Banker-s-Algorithm-/cmake-build-debug/CMakeFiles/edit_cache.dir
